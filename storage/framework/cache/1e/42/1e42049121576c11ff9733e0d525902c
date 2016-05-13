@@ -1,0 +1,36 @@
+1445808161s:1527:"a:6:{s:5:"mtime";i:1445803893;s:7:"content";s:687:"<div class="btn-group">
+  <button class="btn btn-default navbar-btn dropdown-toggle" data-toggle="dropdown">
+    <i class="glyphicon glyphicon-shopping-cart glyphicon-large"></i>
+    {% if basketCount %}
+    &nbsp;<span class="ocshop-count">{{ basketCount }}</span>
+    {% if basketCount == 1 %} item {% else %} items {% endif %}
+    &mdash; &pound;<span class="ocshop-total">{{ basketTotal }}</span>
+    {% else %}
+    Basket is empty
+    {% endif %}
+    &nbsp;<span class="caret"></span>
+  </button>
+  <div class="dropdown-menu" role="menu">
+    <div class="container">
+      {% partial 'basket_items' condense=true checkoutText='Checkout' basketBtn=true %}
+    </div>
+  </div>
+</div>
+";s:7:"viewBag";a:0:{}s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:686:"<div class="btn-group">
+  <button class="btn btn-default navbar-btn dropdown-toggle" data-toggle="dropdown">
+    <i class="glyphicon glyphicon-shopping-cart glyphicon-large"></i>
+    {% if basketCount %}
+    &nbsp;<span class="ocshop-count">{{ basketCount }}</span>
+    {% if basketCount == 1 %} item {% else %} items {% endif %}
+    &mdash; &pound;<span class="ocshop-total">{{ basketTotal }}</span>
+    {% else %}
+    Basket is empty
+    {% endif %}
+    &nbsp;<span class="caret"></span>
+  </button>
+  <div class="dropdown-menu" role="menu">
+    <div class="container">
+      {% partial 'basket_items' condense=true checkoutText='Checkout' basketBtn=true %}
+    </div>
+  </div>
+</div>";}";

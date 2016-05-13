@@ -1,0 +1,53 @@
+1445806224s:2179:"a:6:{s:5:"mtime";i:1445805378;s:7:"content";s:1002:"title = "Contratame"
+url = "/contacto"
+layout = "default"
+==
+
+<div class="jumbotron text-center andradedev">
+        <div class="container">
+            <h1>Contacto</h1>
+        </div>
+    </div>
+
+
+    <hr class="colorgraph">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+                <h3 class="contact-home">Información personal</h3>
+                <p>Soy una persona profesional, capaz de satisfacer las necesidades tecnologicas del usuario final. Si tienes un proyecto, no dudes en contactarme, estare encantando por llevarlo a cabo.</p>
+                <ul class="list-unstyled">
+                    <li><a href="mailto:j.andrade.dev@gmail.com"><i class="fa fa-envelope"></i> j.andrade.dev@gmail.com</a></li>
+                    <li><i class="fa fa-phone"></i> (999)2 19-34-67</li>
+                </ul>
+
+            </div>
+            <div class="col-md-7">
+                {% partial 'contactform' %}
+            </div>
+        </div>
+    </div>
+";s:7:"viewBag";a:0:{}s:8:"settings";a:4:{s:5:"title";s:10:"Contratame";s:3:"url";s:9:"/contacto";s:6:"layout";s:7:"default";s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:939:"<div class="jumbotron text-center andradedev">
+        <div class="container">
+            <h1>Contacto</h1>
+        </div>
+    </div>
+
+
+    <hr class="colorgraph">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+                <h3 class="contact-home">Información personal</h3>
+                <p>Soy una persona profesional, capaz de satisfacer las necesidades tecnologicas del usuario final. Si tienes un proyecto, no dudes en contactarme, estare encantando por llevarlo a cabo.</p>
+                <ul class="list-unstyled">
+                    <li><a href="mailto:j.andrade.dev@gmail.com"><i class="fa fa-envelope"></i> j.andrade.dev@gmail.com</a></li>
+                    <li><i class="fa fa-phone"></i> (999)2 19-34-67</li>
+                </ul>
+
+            </div>
+            <div class="col-md-7">
+                {% partial 'contactform' %}
+            </div>
+        </div>
+    </div>";}";

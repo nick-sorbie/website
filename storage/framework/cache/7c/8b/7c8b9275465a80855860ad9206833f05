@@ -1,0 +1,32 @@
+1445804690s:1533:"a:6:{s:5:"mtime";i:1445803938;s:7:"content";s:694:"        <div class="container">
+
+            <div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown">About Us</h2>
+                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-6 wow fadeInLeft">
+                    {% content 'about/video.htm' %}
+                </div>
+
+                <div class="col-sm-6 wow fadeInRight">
+                    {% content 'about/capabilities.htm' %}
+                </div>
+        </div>
+";s:7:"viewBag";a:0:{}s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:685:"<div class="container">
+
+            <div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown">About Us</h2>
+                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-6 wow fadeInLeft">
+                    {% content 'about/video.htm' %}
+                </div>
+
+                <div class="col-sm-6 wow fadeInRight">
+                    {% content 'about/capabilities.htm' %}
+                </div>
+        </div>";}";

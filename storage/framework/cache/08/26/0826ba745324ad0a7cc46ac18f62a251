@@ -1,0 +1,44 @@
+1445806224s:2111:"a:6:{s:5:"mtime";i:1445805378;s:7:"content";s:979:"<footer class="container-fluid">
+        <div class="row">
+            <div class="col-md-4 copy">
+                <p class="small">&copy; Jorge Andrade</p>
+            </div>
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <div class="social-icons">
+                    <ul>
+                        <li><a href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="https://facebook.com" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a href="https://instagram.com" target="_blank"><i class="fa fa-instagram"></i></a>
+                        </li>
+                        <li><a href="https://pinterest.com" target="_blank"><i class="fa fa-pinterest"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+";s:7:"viewBag";a:0:{}s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:978:"<footer class="container-fluid">
+        <div class="row">
+            <div class="col-md-4 copy">
+                <p class="small">&copy; Jorge Andrade</p>
+            </div>
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <div class="social-icons">
+                    <ul>
+                        <li><a href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="https://facebook.com" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a href="https://instagram.com" target="_blank"><i class="fa fa-instagram"></i></a>
+                        </li>
+                        <li><a href="https://pinterest.com" target="_blank"><i class="fa fa-pinterest"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>";}";

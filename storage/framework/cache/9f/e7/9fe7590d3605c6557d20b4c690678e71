@@ -1,0 +1,40 @@
+1445806224s:1919:"a:6:{s:5:"mtime";i:1445805378;s:7:"content";s:883:"<h3 class="contact-home">Charlemos acerca de tu proyecto</h3>
+<form id="contact" method="post" class="form" role="form">
+    <div class="row">
+        <div class="col-xs-6 col-md-6 form-group">
+            <input class="form-control" id="name" name="name" placeholder="Nombre" type="text" required autofocus />
+        </div>
+        <div class="col-xs-6 col-md-6 form-group">
+            <input class="form-control" id="email" name="email" placeholder="Correo" type="email" required />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 form-group">
+            <textarea class="form-control" id="message" name="message" placeholder="Comentario" rows="5"></textarea>
+        </div>
+        <div class="col-xs-12 col-md-12 form-group">
+            <button class="btn btn-primary pull-right" type="submit">Enviar</button>
+        </div>
+    </div>
+</form>
+";s:7:"viewBag";a:0:{}s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:882:"<h3 class="contact-home">Charlemos acerca de tu proyecto</h3>
+<form id="contact" method="post" class="form" role="form">
+    <div class="row">
+        <div class="col-xs-6 col-md-6 form-group">
+            <input class="form-control" id="name" name="name" placeholder="Nombre" type="text" required autofocus />
+        </div>
+        <div class="col-xs-6 col-md-6 form-group">
+            <input class="form-control" id="email" name="email" placeholder="Correo" type="email" required />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 form-group">
+            <textarea class="form-control" id="message" name="message" placeholder="Comentario" rows="5"></textarea>
+        </div>
+        <div class="col-xs-12 col-md-12 form-group">
+            <button class="btn btn-primary pull-right" type="submit">Enviar</button>
+        </div>
+    </div>
+</form>";}";
